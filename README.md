@@ -23,7 +23,7 @@ Diabetes is a chronic condition that, if detected early, can be managed more eff
 
 ## 📊 Dataset
 
-- **Source:** [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) **
+- **Source:** [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - **Features used:** Glucose, BMI, Blood Pressure, Age, Insulin, Skin Thickness, Pregnancies, Diabetes Pedigree Function
 - **Target variable:** Outcome (1 = Diabetic, 0 = Non-Diabetic)
 
