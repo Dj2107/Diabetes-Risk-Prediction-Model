@@ -49,13 +49,13 @@ jupyter notebook DiaPredict.ipynb
 
 ## 📈 Results
 
-| Metric      | Score |
-|-------------|-------|
-| Accuracy    | XX%   |
-| Precision   | XX%   |
-| Recall      | XX%   |
-| F1-Score    | XX%   |
-| ROC-AUC     | XX%   |
+| Metric      | Score    |
+|-------------|----------|
+| Accuracy    | 70.70%   |
+| Precision   | XX%      |
+| Recall      | XX%      |
+| F1-Score    | XX%      |
+| ROC-AUC     | 0.8130%  |
 
 *(Replace with your actual results)*
 
